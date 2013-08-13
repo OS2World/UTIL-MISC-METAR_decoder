@@ -1,0 +1,35 @@
+The Systems Operations Center (SOC)
+of the National Weather Service (NWS)
+has developed a "C" language software
+package to decode WMO FM 15-IX Ext.
+(METAR) and FM 16-IX Ext. (SPECI)
+formatted reports. The format
+specifications for these report types
+are described in the Federal
+Meteorological Handbook Number 1
+(FMH-1), Surface Weather Observations
+and Reports (December 1995). A METAR
+report may consist of two parts - 1)
+the main body of the report consists
+of observational data that meets
+aviation requirements (e.g. wind speed
+and direction, sky condition,
+temperature and dew point temperature,
+etc.) 2) the remarks section may
+consist of one or more sections (i.e.
+Automated and Manual, Plain Language
+(Manual Only), and Additive Data and
+Automated Maintenance) The MDSP is
+specifically designed to meet SOC
+operational requirements. Nevertheless,
+it is a comprehensive decoder. As a
+result, SOC management decided to make
+the MDSP available to any interested
+party via Internet. However, as the SOC
+makes this software available, it
+neither implies or guarantees the
+accuracy or dependability of the MDSP.
+The MDSP makes no attempt to decode any
+METAR/SPECI group that does not conform
+to the METAR/SPECI format outlined in
+FMH-1 (METAR).

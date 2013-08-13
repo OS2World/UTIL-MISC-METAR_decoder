@@ -1,0 +1,32 @@
+METAR decoder.
+
+The utility based on code from Systems Operations Center (SOC)
+of the National Weather Service (NWS).
+
+Digi, 2009
+
+
+Example:
+
+C:\>metardec.exe UHSS 050430Z 18004MPS 9999 NSC M02/M11 Q1022 NOSIG RMK QFE765
+
+
+
+/*******************************************/
+/*    THE DECODED METAR REPORT FOLLOWS     */
+/*******************************************/
+
+STATION ID          : UHSS
+OBSERVATION DAY     : 5
+OBSERVATION HOUR    : 4
+OBSERVATION MINUTE  : 30
+WIND DIRECTION      : 180
+WIND SPEED          : 4
+WIND UNITS          : MPS
+PREVAIL VSBY (M)    : 9999.000000
+TEMP. (CELSIUS)     : -2
+D.P. TEMP. (CELSIUS): -11
+ALTIMETER (PASCALS) : 1022
+
+
+

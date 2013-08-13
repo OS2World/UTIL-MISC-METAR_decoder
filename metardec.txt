@@ -1,0 +1,28 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: metardec.zip
+       Short Description: METAR decoder utility
+
+        Long Description: METAR decoder utility based on code from Systems Operations Center (SOC) of the National Weather Service (NWS).
+
+      Proposed directory
+           for placement: /pub/os2/util/misc
+
+               Your name: Andrey Vasilkin
+           Email address: digi@os2.snc.ru
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2
+ Additional requirements: 
+
+                Replaces: (none)
+
+
+
